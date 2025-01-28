@@ -5,3 +5,6 @@ https://zpe.gov.pl/a/sprawdz-sie/DUqqkOtYX
 
 Zapytania złożone (relacje, czyli korzystanie z wielu tabel): 
 https://zpe.gov.pl/a/sprawdz-sie/DKwIpFfDS
+
+Kurs SQL: 
+https://miroslawzelent.pl/kurs-mysql/
